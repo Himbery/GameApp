@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hangman</string>
+
+    <string name="turn">Turn:</string>
+    <string name="player">Не дай ему умереть</string>
+    <string name="play">Начать игру</string>
+    <string name="hangman">Виселица</string>
+    <string name="guess">Угадай слово</string>
+    <string name="todo">TODO</string>
+    <string name="trystring">try</string>
+    <string name="congrat">Поздравляем!</string>
+    <string name="fin">Увы! Вы проиграли!</string>
+    <string name="next">Хотите продолжить?</string>
+    <string name="start">Начали</string>
+    <string name="new_game">Новая игра началась!</string>
+    <string name="no">Нет</string>
+    <string name="url"></string>
+    <string-array name="guessWords">
+        <item>Экспонат</item>
+        <item>Россомаха</item>
+        <item>Администрация</item>
+        <item>Ostracism</item>
+        <item>Feudalism</item>
+        <item>Галстук</item>
+        <item>Happiness</item>
+        <item>Sadness</item>
+        <item>Счастье</item>
+        <item>Энергия</item>
+        <item>Покер</item>
+        <item>Школа</item>
+        <item>Кофе</item>
+    </string-array>
+</resources>

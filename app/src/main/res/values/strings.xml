@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Hangman</string>
+
+    <string name="turn">Turn:</string>
+    <string name="player">Don\'t let him die</string>
+    <string name="play">Start Game</string>
+    <string name="hangman">Hangman</string>
+    <string name="guess">Guess</string>
+    <string name="todo">TODO</string>
+    <string name="trystring">try</string>
+    <string name="congrat">Congratulations!</string>
+    <string name="fin">Boo! You hanged a man!</string>
+    <string name="next">Do you want to play again?</string>
+    <string name="start">Let\'s go</string>
+    <string name="new_game">New game started!</string>
+    <string name="no">No</string>
+    <string name="url"> </string>
+    <string-array name="guessWords">
+        <item>Policeman</item>
+        <item>Relationship</item>
+        <item>University</item>
+        <item>Health</item>
+        <item>Computer</item>
+        <item>Сookies</item>
+        <item>Happiness</item>
+        <item>History</item>
+        <item>Autumn</item>
+        <item>Energy</item>
+        <item>River</item>
+        <item>Coffee</item>
+        <item>Cat</item>
+    </string-array>
+
+</resources>
